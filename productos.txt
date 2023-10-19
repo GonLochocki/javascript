@@ -1,0 +1,1 @@
+[{"title":"guitarra","description":"Ibanez","price":450,"thumbnail":"url","stock":3,"code":0.3127266795399275,"id":1},{"title":"guitarra","description":"gibson","price":1200,"thumbnail":"url","stock":6,"code":1.512491117403312,"id":3}]
