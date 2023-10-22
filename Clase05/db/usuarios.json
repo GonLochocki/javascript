@@ -1,0 +1,34 @@
+[
+  {
+    "id": "9866b5c2-1aba-41e2-9a6b-200eb23529fc",
+    "nombre": "Gonzalo",
+    "apellido": "Lochocki",
+    "nombreUsuario": "Goncho",
+    "contrasenia": "3315e142b1a6e7c82f950e869c7feb2240f9ca860c67a7552e58f7d237dc021e",
+    "salt": "XiGpTnzSx+4vLC7TVNknOQqvzNg7KmQKKIXRxIQEOxUvfEtd6zn8rWgwtvFcLeCJU4UIkeoiL7BZrag9OnlDC2Q/pwi4O+HAlqWzwzZPNgnFqIp4/uBB6xE+eyxGjL5WbCPECXcmnDT3/uvsCeqk591f0ouWcr9hMeilvheo6eo="
+  },
+  {
+    "id": "62cb18de-77d5-41c7-a7a6-ecf1f0adf1d2",
+    "nombre": "Gonzalo",
+    "apellido": "Lochocki",
+    "nombreUsuario": "Goncho",
+    "contrasenia": "9e6a22fe26f25f51943286d895dce160b527bd3725c46e249f441f13dee040f9",
+    "salt": "jcEOzMQ1g7+CKVhT+AG9vIrt3auG1PCH7VHaetwbagF4n4GbuuMKblfX/y4XxF5DSWqBjRm4sjCpSnO5ftwhrLTMn1Z0MqD3Dq4OKyUQOmE51uwRoVO7SC9R9zHKCEY4yxDl+1JbQoG49KCXruMh4zPb9ELffSQVYl5mqdeTVDI="
+  },
+  {
+    "id": "b0e7f4aa-c765-4ea1-be04-5c1a7909413a",
+    "nombre": "Gonzalo",
+    "apellido": "Lochocki",
+    "nombreUsuario": "Goncho",
+    "contrasenia": "4f6a8d64089d686b3d789497cd163100115934eed23e9a0d78e29349b4bf0530",
+    "salt": "g21quGmeMCUcfcIqOTu3fi53PkeduyP+8N/EBSYkIhkkY3D0wePmXjrLDYHgLFD/Rp/mwpouKIwa6Hov3s3/2Ju+0iyZ3sDxaFykxhfn4tNZIHgBgMt/JG7Y5yso+2ayjdlaMwmfbKAKYHY1l+Vr2zQ5OtBykYqcyD6ViWs7FJg="
+  },
+  {
+    "id": "d3a3d8fc-ab39-41b8-b426-cddf1556739b",
+    "nombre": "Gonzalo",
+    "apellido": "Lochocki",
+    "nombreUsuario": "Goncho",
+    "contrasenia": "7cda8f3811f52f8b57943bbbdedb10ab2403fec169f8e4bddd3b7561808e8259",
+    "salt": "b9UQBffM62cIEGvVPB+FxEAo2wBw/qPf26a3ZzDM/nt1p6eGGLSAd4tEVK+AggInwaDM3pMCZBi1mxbREosUxZzJ/a7Ezf9yqzZ0bAGGk0FRSf3pIG53qicYVb4k91YJw5aEY79pNmqVGsY8BpTzwYLwHW5Fy+Ucn+PggE6aB7Y="
+  }
+]
